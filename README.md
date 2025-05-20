@@ -1,4 +1,4 @@
-# Open Source Slides
+# React Native Universal Apps Slides
 
 ### Slides
 
